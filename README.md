@@ -1,2 +1,3 @@
 # Python-folder-backup
-Backup de Arquivos e Pastas com Interface de Seleção  Um script em Python que permite ao usuário selecionar uma pasta no computador, e cria automaticamente um backup de todos os arquivos e subpastas presentes nela. Os backups são organizados em uma nova pasta chamada Backup, com subpastas nomeadas pela data e hora da cópia.  Tecnologias utilizadas: tkinter, os, shutil, datetime.
+Backup de Arquivos e Pastas com Interface de Seleção.
+Um script em Python que permite ao usuário selecionar uma pasta no computador, e cria automaticamente um backup de todos os arquivos e subpastas presentes nela. Os backups são organizados em uma nova pasta chamada Backup, com subpastas nomeadas pela data e hora da cópia.  Tecnologias utilizadas: tkinter, os, shutil, datetime.
